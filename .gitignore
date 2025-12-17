@@ -33,3 +33,7 @@ build/
 .vscode/
 *.log
 occurence-management.log*
+
+*.log
+*.log.*
+*.gz
